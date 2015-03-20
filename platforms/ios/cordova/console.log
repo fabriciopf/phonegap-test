@@ -1,0 +1,43 @@
+2015-03-20 10:55:40.444 Hello World[8732:40696] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/fabriciopf/Library/Developer/CoreSimulator/Devices/0852BA12-B21E-4720-98A8-A12D7C5FE81A/data/Containers/Data/Application/5AF1EA7D-34F4-43CF-AAE6-5E7C24B4723F/Library/Cookies/Cookies.binarycookies
+2015-03-20 10:55:40.560 Hello World[8732:40696] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-20 10:55:40.561 Hello World[8732:40696] Multi-tasking -> Device: YES, App: YES
+2015-03-20 10:55:40.589 Hello World[8732:40696] Unlimited access to network resources
+2015-03-20 10:55:40.592 Hello World[8732:40696] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-20 10:55:40.796 Hello World[8732:40696] Resetting plugins due to page load.
+2015-03-20 10:55:40.877 Hello World[8732:40696] Finished load of: file:///Users/fabriciopf/Library/Developer/CoreSimulator/Devices/0852BA12-B21E-4720-98A8-A12D7C5FE81A/data/Containers/Bundle/Application/C896D16B-EB3F-408A-9499-2D397DD21678/Hello%20World.app/www/index.html
+2015-03-20 10:55:51.306 Hello World[8732:40917] Terminating since there is no system app.
+2015-03-20 10:59:33.979 Hello World[9532:44809] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/fabriciopf/Library/Developer/CoreSimulator/Devices/0852BA12-B21E-4720-98A8-A12D7C5FE81A/data/Containers/Data/Application/8E41C89C-2057-4D81-B8C4-FFFD701E937B/Library/Cookies/Cookies.binarycookies
+2015-03-20 10:59:34.111 Hello World[9532:44809] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-20 10:59:34.111 Hello World[9532:44809] Multi-tasking -> Device: YES, App: YES
+2015-03-20 10:59:34.173 Hello World[9532:44809] Unlimited access to network resources
+2015-03-20 10:59:34.176 Hello World[9532:44809] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-20 10:59:34.456 Hello World[9532:44809] Resetting plugins due to page load.
+2015-03-20 10:59:34.691 Hello World[9532:44809] Finished load of: file:///Users/fabriciopf/Library/Developer/CoreSimulator/Devices/0852BA12-B21E-4720-98A8-A12D7C5FE81A/data/Containers/Bundle/Application/01014FF7-61F0-46B1-BC01-CF048099241B/Hello%20World.app/www/index.html
+2015-03-20 11:00:42.376 Hello World[9881:46195] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/fabriciopf/Library/Developer/CoreSimulator/Devices/0852BA12-B21E-4720-98A8-A12D7C5FE81A/data/Containers/Data/Application/8234C3E1-3D1F-4003-831D-D7D9F7294AF6/Library/Cookies/Cookies.binarycookies
+2015-03-20 11:00:42.578 Hello World[9881:46195] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-20 11:00:42.579 Hello World[9881:46195] Multi-tasking -> Device: YES, App: YES
+2015-03-20 11:00:42.581 Hello World[9881:46195] Unlimited access to network resources
+2015-03-20 11:00:42.585 Hello World[9881:46195] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-20 11:00:42.790 Hello World[9881:46195] Resetting plugins due to page load.
+2015-03-20 11:00:42.857 Hello World[9881:46195] Finished load of: file:///Users/fabriciopf/Library/Developer/CoreSimulator/Devices/0852BA12-B21E-4720-98A8-A12D7C5FE81A/data/Containers/Bundle/Application/47D008D3-9D2C-4CB2-9E9F-8796089CA2B0/Hello%20World.app/www/index.html
